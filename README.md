@@ -6,9 +6,12 @@
 
 具体操作方法如下：
 
-- 点击 `fork` 主仓库到自己的账户，此时在自己的账户下应该可以看到名为`DataStructure Report 2018`的仓库。
+- 点击右上角的 `fork` 主仓库到自己的账户，此时在自己的账户下应该可以看到名为`DataStructure Report 2018`的仓库。
+
 - 安装 Git ，可以参考[这篇文章]( https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496 )进行操作。
+
 - 配置 SSH ，可以参考[这篇文章]( https://www.liaoxuefeng.com/wiki/896043488029600/896954117292416 )进行操作。
+
 - 将自己账户下的该仓库克隆到本地，可以参考[这篇文章]( https://www.liaoxuefeng.com/wiki/896043488029600/898732792973664 )进行操作。
 
 - 在本地仓库中建立一个以自己学号与姓名命名的文件夹。
@@ -47,6 +50,10 @@
 
 -  最后，到 Github 上创建  Pull Request ：
 
-   在接下来的页面中点击「compare across forks」，并在左边选择主仓库（iLern/DataStructure-Report-2018），右边选择你的仓库： 
+   ![](https://s2.ax1x.com/2019/11/22/M71xJ0.png)
 
+   在接下来的页面中点击「compare across forks」，并在左边选择主仓库（iLern/DataStructure-Report-2018），右边选择你的仓库： 
+   
+   ![](https://s2.ax1x.com/2019/11/22/M71zWV.png)
+   
    输入标题和正文（可为空）后点击最下方的「Create pull request」即可。你的提交将在被审阅之后合并到主仓库 。
