@@ -34,6 +34,14 @@
   git push
   ```
 
+  注意在初次推送时使用
+
+  ```shell
+  git push -u origin master
+  ```
+
+  
+
   当出现类似下面的输出时表明提交成功
 
   ```shell
